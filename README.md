@@ -36,7 +36,7 @@ Packages which use in this example project
     1. `Interactivity Request URL = https://#.ngrok.io/slack/interative-endpoint`
     2. `Slash Commands '/poll' = https://#.ngrok.io/slack/command`
     3. `OAuth & Permissions Redirect URLs = https://#.ngrok.io/slack/redirect` 
-    4. `Scopes channels:history, chat:write, chat:write.public, commands, pins:read, pins:write`
+    4. `Scopes channels:history, chat:write, commands, pins:read, pins:write`
     5. `Event Subscriptions Request URL = https://#.ngrok.io/slack/events`
 6. Add bot to app
 7. Write `give beer` in a chat or run `/poll` command 
